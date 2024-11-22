@@ -1,0 +1,9 @@
+[submodule "third_party/gazebo_models"]
+	path = third_party/gazebo_models
+	url = https://github.com/osrf/gazebo_models
+	shallow = true
+[submodule "ros2_ws/src/third_party/rosbridge_suite"]
+	path = ros2_ws/src/third_party/rosbridge_suite
+	url = https://github.com/RobotWebTools/rosbridge_suite
+	branch = ros2
+
