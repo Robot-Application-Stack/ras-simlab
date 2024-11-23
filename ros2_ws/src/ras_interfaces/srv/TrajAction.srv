@@ -1,0 +1,6 @@
+string[] instructions
+trajectory_msgs/JointTrajectory[] traj
+
+---
+
+bool success
