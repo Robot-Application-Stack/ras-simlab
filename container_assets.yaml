@@ -1,0 +1,31 @@
+containers:
+  - type: beaker
+    id: A
+    aruco_id: 101
+    content_name: empty
+    content_volume: 0
+    content_color: none
+    active_status: 1
+    position: [0.5, 0, 0]
+    orientation: [0, 0, 0, 1]
+    landmark: none
+  - type: beaker
+    id: B
+    aruco_id: 102
+    content_name: copper sulphate
+    content_volume: 100
+    content_color: blue
+    active_status: 0
+    position: [0.8, 0, 0]
+    orientation: [0, 0, 0, 1]
+    landmark: none
+  - type: test tube
+    id: C
+    aruco_id: 103
+    content_name: empty
+    content_volume: 0
+    content_color: none
+    active_status: 0
+    position: [1.2, 1, 0]
+    orientation: [0, 0, 0, 1]
+    landmark: test-tube rack
